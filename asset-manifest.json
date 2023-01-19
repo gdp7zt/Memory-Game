@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Memory-Gane/static/css/main.56e2a16f.css",
+    "main.js": "/Memory-Gane/static/js/main.6ef3f088.js",
+    "index.html": "/Memory-Gane/index.html",
+    "main.56e2a16f.css.map": "/Memory-Gane/static/css/main.56e2a16f.css.map",
+    "main.6ef3f088.js.map": "/Memory-Gane/static/js/main.6ef3f088.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e2a16f.css",
+    "static/js/main.6ef3f088.js"
+  ]
+}
